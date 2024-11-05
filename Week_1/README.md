@@ -2,4 +2,9 @@ Week-1 of this project will focus on understanding the basics of python programm
 
 1) Basic python for beginners (can be skipped if you have a basic understanding of python) : https://www.youtube.com/watch?v=eWRfhZUzrAc&list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB
 
-2) 
+2) Python NumPy tutorial : https://www.youtube.com/watch?v=QUT1VHiLmmI
+
+3) Python Matpltlib tutorial : https://www.youtube.com/watch?v=3Xc3CA655Y4
+
+In addition to this, the following references can be used:
+
