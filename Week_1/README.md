@@ -3,7 +3,7 @@ Week-1 of this project will focus on understanding the basics of python programm
 https://www.youtube.com/watch?v=9o4gDQvVkLU
 2) Basic python for beginners (can be skipped if you have a basic understanding of python) : https://www.youtube.com/watch?v=eWRfhZUzrAc&list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB
 
-3) Python NumPy tutorial : https://www.youtube.com/watch?v=QUT1VHiLmmI
+3) Python NumPy tutorial (basics) : https://www.youtube.com/watch?v=QUT1VHiLmmI
 
 4) Python Matplotlib tutorial : https://www.youtube.com/watch?v=3Xc3CA655Y4
 
