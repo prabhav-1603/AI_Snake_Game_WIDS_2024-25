@@ -1,5 +1,5 @@
 Week-1 of this project will focus on understanding the basics of python programming language and some of the basic libraries which we will use in the future. The links to the resources can be found below:
-1) Python Installation Guide in VS Code (you can use any other platform for this) 
+1) Python Setup Guide in VS Code (you can use any other platform for this) 
 https://www.youtube.com/watch?v=9o4gDQvVkLU
 2) Basic python for beginners (can be skipped if you have a basic understanding of python) : https://www.youtube.com/watch?v=eWRfhZUzrAc&list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB
 
