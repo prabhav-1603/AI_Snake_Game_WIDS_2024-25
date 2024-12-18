@@ -16,6 +16,7 @@ https://youtu.be/VyWAvY2CF9c?si=CTqW49jLAdv97cHN
 4) Implementing Neural Networks Using PyTorch:
 Pytorch tutorial:
 https://www.youtube.com/watch?v=c36lUUr864M
+
 Neural Networks in Pytorch(You can choose to skip the above tutorial if you want)
 https://youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh&si=DQtoQe8MzA8Ur9Ps
 For this playlist only the first 4 videos are necessary; the rest are optional and not required for this project.
