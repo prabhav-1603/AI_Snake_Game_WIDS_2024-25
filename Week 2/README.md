@@ -26,4 +26,5 @@ For this playlist only the first 4 videos are necessary; the rest are optional a
 **Assignment**:
 
 Set up a basic feed forward neural network that can take images from the MNIST dataset and identify them accurately. You can use the Pytorch library to do this. You can submit .py as well as .ipynb files for this task.
+
 Note: We know that the tutorials we provided mostly cover the implementation of the neural network, we just want you to play with it yourself and understand each part of the code. 
