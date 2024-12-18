@@ -1,6 +1,7 @@
 For this week, we will focus on the basics of Machine Learning specifically Neural Networks:
 
-1) Linear Regression
+1) 
+Linear Regression
 (We won't be using this algorithm directly, but learning it will help you understand how to code algorithms and give you an idea of a typical machine learning algorithm.)
 https://youtu.be/VmbA0pi2cRQ?si=bbAExuoz4xfczTZQ
 
