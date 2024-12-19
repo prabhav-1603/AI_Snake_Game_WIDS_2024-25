@@ -25,7 +25,7 @@
 ## Assignment  
 
 1. **Objective**:  
-   Set up a basic feed-forward neural network that can take images from the MNIST dataset and identify them accurately.  
+   Set up a basic feed-forward neural network that can take images from the MNIST handwritten digits dataset and identify them accurately.  
 
 2. **Tools**:  
    Use the PyTorch library to complete this task.  
