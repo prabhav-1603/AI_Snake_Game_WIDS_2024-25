@@ -1,4 +1,4 @@
-# Week 1: Basics of Machine Learning and Neural Networks
+# Week 2: Basics of Machine Learning and Neural Networks
 
 ## Topics Covered
 
