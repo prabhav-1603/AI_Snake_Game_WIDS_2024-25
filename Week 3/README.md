@@ -18,4 +18,3 @@ This week, we will focus on learning the concepts of **Reinforcement Learning**.
    by Richard S. Sutton and Andrew G. Bartow  
    [Read the book online](http://incompleteideas.net/book/RLbook2020.pdf)
 
-Happy learning!
