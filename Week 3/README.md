@@ -12,7 +12,7 @@ This week, we will focus on learning the concepts of **Reinforcement Learning**.
    Complement your learning with this detailed blog post:  
    [DeepLizard Blog on Reinforcement Learning](https://deeplizard.com/learn/video/nyjbcRQ-uQ8)
 
-3. **Recommended Reading**  
+3. **Optional Recommended Reading**  
    For a deeper understanding, read **Chapter 3** of the following book:  
    _Reinforcement Learning: An Introduction, Second Edition_  
    by Richard S. Sutton and Andrew G. Bartow  
